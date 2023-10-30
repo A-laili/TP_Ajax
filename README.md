@@ -9,47 +9,60 @@ Ce répertoire inclut un projet de gestion des machines, créé en utilisant Jav
 La (Home Page ) ou page d'accueil est la première interface à consulter lorsqu'ils accèdent à l'application. Elle présente un aperçu du système.
 Sur cette page, un Bar Chart est affiché pour montrer le nombre total de machines enregistrées dans le système par marque
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/28516d42-a7cc-4cea-b15e-6b9a61602e7b)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/9b79e6a1-5088-44ca-b6b2-aa40ac91dc4e)
+
 
 
 # Gestion des Etudiants 
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/d914c860-6f9b-4fde-8342-8f8b103111e8)
+
 
 ## Modification 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/6f4eefb8-8e7b-4a1c-897e-27c5723edf0b)
+
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/66b1131a-5853-4c7b-87c5-3b8b92585390)
+
 
 ## Apres confirmation 
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/67892ce2-f742-48af-9897-6eba201b0f7c)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/7ba49ad0-aa2a-49eb-819d-68fd41d483b8)
+
+
 
 ## Suppression
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/67d2d1a5-bb0b-4334-bbd9-a0e4082d1d6a)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/878e9148-f2bc-4361-b687-a6eeb836da8e)
+
 
 
 # Gestion des Marques
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/44793d43-a3eb-4be1-9f6a-449742bf4c3b)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/0dea4f17-5d81-47da-b7b3-eb20988379ab)
+
+
 
 # Gestion des Machines 
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/b93c2fc7-2bde-48ca-bc1d-8899525576da)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/22edec30-e952-436b-bfda-23211488bb4f)
+
 
 ## Modification 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/46ac8c3c-7fa2-4732-b0cf-9fce208c2281)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/b5ca46e9-176c-4d44-bc8f-5b9046279095)
+
 
 ## Suppression
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/79cb8c39-6659-4740-9dda-972922540f79)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/21af8303-a7c0-43cc-a475-678541b9e6e9)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/dafd5aff-e665-4157-8ee8-61ac6a861066)
+
 
 # Machine par Marques
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/69744d44-21e3-4dc2-894d-699f9f64b991)
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/233bafc6-6756-4b0c-ad35-d70832b8d22f)
 
 
 # Machine par Référence
 
-![image](https://github.com/A-laili/TP_Ajax/assets/147451080/9473180e-8433-462a-b230-83f3ec5e2c0f)
+![image](https://github.com/A-laili/TP_Ajax/assets/147451080/ddff6878-1024-42be-adf1-b785ede52625)
+
 
 
 
