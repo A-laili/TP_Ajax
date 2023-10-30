@@ -1,0 +1,41 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 30 oct. 2023, 20:26:32
+    Author     : Asmaa
+*/
+ /* Style the chart container */
+            #myChart {
+                width: 50%; /* Make the chart container responsive to its parent */
+                max-width: 50%; /* Limit the maximum width */
+                margin: 0 auto; /* Center the chart horizontally */
+                border: 1px solid #ccc; /* Add a border for clarity */
+                border-radius: 5px; /* Add rounded corners */
+            }
+
+            /* Style the chart title */
+            .chart-title {
+                text-align: center;
+                font-weight: bold;
+                color: brown;
+            }
+
+            /* Style the chart legend */
+            .chart-legend {
+                list-style: none;
+                padding: 0;
+            }
+
+            .chart-legend li {
+                margin-right: 20px;
+                display: inline-block;
+            }
+
+            .chart-legend li::before {
+                content: '\25A0'; /* Add a square bullet for each legend item */
+                color: brown; /* Customize the color of the bullet */
+                margin-right: 5px;
+            }
